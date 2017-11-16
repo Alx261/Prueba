@@ -14,6 +14,10 @@ and open the template in the editor.
             echo 'Mensjae de desarrolo';
             echo "buel";
             echo "hola 2222222222";
+            
+            
+            
+            echo "master";
         ?>
     </body>
 </html>
