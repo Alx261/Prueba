@@ -13,7 +13,11 @@ and open the template in the editor.
         <?php
             echo 'Mensjae de desarrolo';
             echo "buel";
-            echo "hola 2222222222";
+            echo "hola 2222222222";}
+            
+            
+            
+            echo "master   erwe";}
         ?>
     </body>
 </html>
